@@ -1,4 +1,2 @@
 # Simon-64.github.io
-
-Das ist ein Test
-123
+Das hier solltet ihr nicht lesen können. Gebt bitte Bescheid falls doch.
